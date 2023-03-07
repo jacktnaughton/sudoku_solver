@@ -7,13 +7,6 @@ exactly one occurrence of each of the
 symbol choices.
 """
 
-"""
-Jack Naughton
-Professor Young
-CS 211
-10 February 2023
-"""
-
 from sdk_config import CHOICES, UNKNOWN, ROOT
 from sdk_config import NROWS, NCOLS
 
